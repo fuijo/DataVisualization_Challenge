@@ -3,7 +3,8 @@
 **Pymaceuticals' Clinical Study Analysis Project**
 This project involved analyzing and visualizing data from Pymaceuticals’ animal study to evaluate the effectiveness of its anti-cancer drug, Capomulin, compared to other treatments for squamous cell carcinoma (SCC). Using Matplotlib and Python, various statistical analyses and visualizations were performed to present key findings to the executive team.
 
-Key Outcomes
+Outcomes
+
 **Data Preparation:**
 
 Merged the mouse_metadata and study_results datasets into a single comprehensive DataFrame.
